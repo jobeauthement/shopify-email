@@ -1,0 +1,8 @@
+<mj-raw>
+  <!-- 3 Line Divider-->
+</mj-raw>
+<mj-section>
+  <mj-column>
+    <mj-image padding="0" src="/assets/3-lines.png">
+  </mj-column>
+</mj-section>
